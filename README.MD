@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
 
@@ -40,15 +40,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um titulo de um ebook sobre o tema de scrum master sobre o papel do scrum master e o subnicho é a gestão de times ágeis atraves da ferramenta Azure Boards alinhada aos eventos scrum, o titulo deve ser épico e ter uma temática mais voltada a Caixa econômica federal e transformação digital, me liste uma variação de 5 titulos                                                         |
+| conteúdo | faça um ebook, com foco no Scrum, listando o eventos scrum e aplicação no azure board de forma pratica indicando as funcionalidades do aplicativo  para cada evento scrum 
+
+{REGRAS}
+> explique sempre de maneira simples 
+> deixei o texto enxuto
+> sempre traga exemplos de aplicações dos eventos scrum em contextos reais 
+> crie um nome sempre deixe um titulo sugestivo utópico  |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A confident Black professional standing in a modern, high-tech office environment, symbolizing a Scrum Master role. The individual is wearing business-casual attire, holding a tablet displaying agile workflows, surrounded by holographic visuals of Azure Boards, task cards, and sprint charts. The setting reflects a digital transformation theme, with futuristic screens and a subtle branding touch of the Caixa Econômica Federal. The atmosphere is innovative, collaborative, and inspiring, with soft lighting and a focus on inclusivity and leadership. |
 
 ## ✨ Features
 
